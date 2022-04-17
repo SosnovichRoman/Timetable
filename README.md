@@ -9,8 +9,6 @@ Right now app is working on a free temporary hosting: <a href="http://donsimondo
 + Architecture - MVC
 
 ## Screenshots
-____
-
 <img src="img/Login.png" width="720">
 
 ____
