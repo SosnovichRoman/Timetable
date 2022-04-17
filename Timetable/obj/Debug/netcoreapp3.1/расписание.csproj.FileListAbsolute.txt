@@ -1,0 +1,1010 @@
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.StaticWebAssets.xml
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.exe
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.deps.json
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.runtimeconfig.json
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.runtimeconfig.dev.json
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.pdb
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.Views.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.Views.pdb
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.csproj.AssemblyReference.cache
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.AssemblyInfoInputs.cache
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.AssemblyInfo.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.csproj.CoreCompileInputs.cache
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.RazorAssemblyInfo.cache
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.RazorAssemblyInfo.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\staticwebassets\расписание.StaticWebAssets.Manifest.cache
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\staticwebassets\расписание.StaticWebAssets.xml
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\scopedcss\bundle\расписание.styles.css
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.TagHelpers.input.cache
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.TagHelpers.output.cache
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.RazorCoreGenerate.cache
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.RazorTargetAssemblyInfo.cache
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.RazorTargetAssemblyInfo.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.Views.pdb
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.csproj.CopyComplete
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.dll
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.pdb
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.genruntimeconfig.cache
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Create.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Delete.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Details.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Edit.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Index.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Create.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Delete.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Details.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Edit.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Index.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Create.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Delete.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Details.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Edit.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Index.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\showWeek.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\ShowDay.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Create.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Delete.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Details.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Edit.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Index.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\ShowItems.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\face\source\repos\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.csproj.AssemblyReference.cache
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.AssemblyInfoInputs.cache
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.AssemblyInfo.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.csproj.CoreCompileInputs.cache
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.RazorAssemblyInfo.cache
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.RazorAssemblyInfo.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\staticwebassets\расписание.StaticWebAssets.Manifest.cache
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\staticwebassets\расписание.StaticWebAssets.xml
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\scopedcss\bundle\расписание.styles.css
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.TagHelpers.input.cache
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.TagHelpers.output.cache
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.RazorCoreGenerate.cache
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Create.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Delete.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Details.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Edit.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Index.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Create.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Delete.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Details.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Edit.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Index.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\ShowDay.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Create.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Delete.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Details.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Edit.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Index.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\ShowItems.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Create.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Delete.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Details.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Edit.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Index.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\showWeek.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.RazorTargetAssemblyInfo.cache
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.RazorTargetAssemblyInfo.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.pdb
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.StaticWebAssets.xml
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.exe
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.deps.json
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.runtimeconfig.json
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.runtimeconfig.dev.json
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.pdb
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.Views.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.Views.pdb
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.Views.pdb
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.genruntimeconfig.cache
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.csproj.CopyComplete
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\face\OneDrive\Рабочий стол\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.StaticWebAssets.xml
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.exe
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.deps.json
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.runtimeconfig.json
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.runtimeconfig.dev.json
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.pdb
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.Views.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.Views.pdb
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.AssemblyInfo.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\staticwebassets\расписание.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\staticwebassets\расписание.StaticWebAssets.xml
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\scopedcss\bundle\расписание.styles.css
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.TagHelpers.input.cache
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.TagHelpers.output.cache
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.RazorCoreGenerate.cache
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Create.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Delete.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Details.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Edit.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Index.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Create.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Delete.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Details.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Edit.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Index.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\ShowDay.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Create.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Delete.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Details.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Edit.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Index.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\ShowItems.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Create.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Delete.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Details.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Edit.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Index.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\showWeek.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.Views.pdb
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.csproj.CopyComplete
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.dll
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.pdb
+C:\Users\User\source\repos\расписание — копия\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.genruntimeconfig.cache
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.StaticWebAssets.xml
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.exe
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.deps.json
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.runtimeconfig.json
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.runtimeconfig.dev.json
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.pdb
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.Views.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\расписание.Views.pdb
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\расписание — копия\расписание\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.AssemblyInfo.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\staticwebassets\расписание.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\staticwebassets\расписание.StaticWebAssets.xml
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\scopedcss\bundle\расписание.styles.css
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.TagHelpers.input.cache
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.TagHelpers.output.cache
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.RazorCoreGenerate.cache
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Create.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Delete.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Details.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Edit.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Index.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Create.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Delete.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Details.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Edit.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Index.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\ShowDay.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Create.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Delete.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Details.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Edit.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Index.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\ShowItems.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Create.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Delete.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Details.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Edit.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Index.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\showWeek.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.Views.pdb
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.csproj.CopyComplete
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.dll
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.pdb
+C:\Users\User\source\repos\расписание — копия\расписание\obj\Debug\netcoreapp3.1\расписание.genruntimeconfig.cache
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\appsettings.json
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.StaticWebAssets.xml
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.exe
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.deps.json
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.runtimeconfig.json
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.runtimeconfig.dev.json
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.pdb
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.Views.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\расписание.Views.pdb
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\расписание\расписание\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.csproj.AssemblyReference.cache
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.GeneratedMSBuildEditorConfig.editorconfig
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.AssemblyInfoInputs.cache
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.AssemblyInfo.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.csproj.CoreCompileInputs.cache
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.MvcApplicationPartsAssemblyInfo.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.MvcApplicationPartsAssemblyInfo.cache
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.RazorAssemblyInfo.cache
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.RazorAssemblyInfo.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\staticwebassets\расписание.StaticWebAssets.Manifest.cache
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\staticwebassets\расписание.StaticWebAssets.xml
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.TagHelpers.input.cache
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.TagHelpers.output.cache
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.RazorCoreGenerate.cache
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Create.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Delete.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Details.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Edit.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Clas\Index.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Create.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Delete.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Details.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Edit.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\Index.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Days\ShowDay.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Create.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Delete.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Details.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Edit.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\Index.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Items\ShowItems.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Role\Create.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Create.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Delete.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Details.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Edit.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\Index.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\Weeks\showWeek.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.RazorTargetAssemblyInfo.cache
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.RazorTargetAssemblyInfo.cs
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.Views.pdb
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.csproj.CopyComplete
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.dll
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.pdb
+C:\расписание\расписание\obj\Debug\netcoreapp3.1\расписание.genruntimeconfig.cache

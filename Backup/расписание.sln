@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "расписание", "расписание\расписание.csproj", "{0951E9A2-F285-4F4B-B15C-7143E181E27B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0951E9A2-F285-4F4B-B15C-7143E181E27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0951E9A2-F285-4F4B-B15C-7143E181E27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0951E9A2-F285-4F4B-B15C-7143E181E27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0951E9A2-F285-4F4B-B15C-7143E181E27B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8B80E9B-C6F1-4F2E-86EE-71E2ADACB9D8}
+	EndGlobalSection
+EndGlobal

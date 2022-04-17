@@ -1,0 +1,87 @@
+﻿@model List<Timetable.Models.Day>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "Index";
+    var dayDictionary = new Dictionary<int, string>()
+    {
+    [0] = "Понедельник",
+    [1] = "Вторник",
+    [2] = "Среда",
+    [3] = "Четверг",
+    [4] = "Пятница",
+    [5] = "Суббота",
+    [6] = "Воскресенье"
+    };
+    string a = "Lesson" + 1;
+}
+<style>
+    body {
+        background: lightgray;
+        margin-block-end: 0em;
+    }
+</style>
+<h1>Учебные дни</h1>
+@if (User.IsInRole("Admin"))
+{
+    <p>
+        <a asp-action="Create" asp-route-GroupId="@ViewBag.GroupId">Create New</a>
+    </p>
+}
+<table class="table table-dark table-striped">
+    <thead>
+        <tr>
+            <th>
+                <span style="font-size: 1.2em; font-weight: bold">День недели</span>
+            </th>
+            <th>
+               <span style="font-size: 1.2em; font-weight: bold">Пара</span>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var day in Model)
+        {
+            <tr class="Day@(day.dayOfWeek)">
+                <td>
+                    <a style="color: white" asp-controller="Items" asp-action="ShowItems" asp-route-ItemsssId="@day.id">@dayDictionary[day.dayOfWeek]</a>
+                </td>
+
+                <td>
+                    @if (day.Lesson != null)
+                    {
+                        @foreach (var lesson in day.Lesson)
+                        {
+                            <p style="font-size: 1.2em; font-weight: bold">Занятие: <span class="Lesson">@lesson.name</span></p>
+                            <p>Номер занятия: <span class="Number">@lesson.number</span></p>
+                            <p>Аудитория: <span class="Place">@lesson.place</span></p>
+                            <p>Тип: <span class="Type">@lesson.type</span></p>
+                            <p>Преподаватель: <span class="Teacher">@lesson.teacher</span></p>
+                            <p>Начало: <span class="Starts">@lesson.starts</span></p>
+                            <p>Конец: <span class="Ends">@lesson.ends</span></p>
+                            <hr />
+                        }
+                    }
+                    else
+                    {<p>НЕТУ</p>}
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => day.Group.name)
+                </td>
+                @if (User.IsInRole("Admin"))
+                {
+                    <td>
+
+                        <a asp-action="Edit" asp-route-id="@day.id">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@day.id">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@day.id">Delete</a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+

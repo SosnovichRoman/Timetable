@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Timetable.Models.Group>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+    <style>
+        body {
+            background: gray; /* Цвет фона и путь к файлу */
+        }
+    </style>
+    <h1>Расписание</h1>
+    @if (User.IsInRole("Admin"))
+    {
+        <p>
+
+            <a asp-action="Create">Create New</a>
+        </p>
+    }
+    <table class="table table-dark table-striped">
+        <thead>
+            <tr>
+                <th style="text-align: center;">
+                    Выберите номер группы
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+                @foreach (var group in Model)
+                {
+                    <tr>
+                        <td>
+                            <a asp-controller="Days" asp-action="ShowTimetable" asp-route-GroupName="@group.name" style="color: white" 1> @Html.DisplayFor(modelItem => group.name)</a>
+                        </td>
+                        <td>
+                            @if (User.IsInRole("Admin"))
+                            {
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@group.id">Edit</a> |
+                                <a asp-action="Details" asp-route-id="@group.id">Details</a> |
+                                <a asp-action="Delete" asp-route-id="@group.id">Delete</a>
+                            </td>
+                            }
+                        </tr>
+            }
+        </tbody>
+    </table>
+

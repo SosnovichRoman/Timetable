@@ -1,0 +1,75 @@
+﻿@model List<Timetable.Models.Day>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "Index";
+    var dayDictionary = new Dictionary<int, string>()
+    {
+    [0] = "Понедельник",
+    [1] = "Вторник",
+    [2] = "Среда",
+    [3] = "Четверг",
+    [4] = "Пятница",
+    [5] = "Суббота",
+    [6] = "Воскресенье"
+    };
+}
+<style>
+    body {
+        background: gray;
+    }
+</style>
+<h1>Учебные дни</h1>
+@if (User.IsInRole("Admin"))
+{
+    <p>
+        <a asp-action="Create" asp-route-weekId="@ViewBag.Weekid">Create New</a>
+    </p>
+}
+<table class="table table-dark table-striped">
+    <thead>
+        <tr>
+            <th>
+                день
+            </th>
+            <th>
+                неделя
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a style="color: white" asp-controller="Items" asp-action="ShowItems" asp-route-ItemsssId="@item.id">@dayDictionary[item.dayOfWeek]</a>
+                    @if (item.Lesson != null)
+                    {
+                        @foreach (var day in item.Lesson)
+                        {
+                            <p style="color: orangered"><b>@Html.DisplayFor(modelItem => day.name)   @Html.DisplayFor(modelItem => day.teacher)</b></p>
+
+                        }
+                    }
+                    else
+                    {<p>НЕТУ</p>}
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Group.name)
+                </td>
+                @if (User.IsInRole("Admin"))
+                {
+                    <td>
+
+                        <a asp-action="Edit" asp-route-id="@item.id">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.id">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.id">Delete</a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
