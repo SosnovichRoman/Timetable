@@ -18,8 +18,7 @@
 }
 <style>
     body {
-        background: lightgray;
-        margin-block-end: 0em;
+        background: silver;
     }
 </style>
 <h1>Учебные дни</h1>
@@ -46,7 +45,7 @@
         {
             <tr class="Day@(day.dayOfWeek)">
                 <td>
-                    <a style="color: white" asp-controller="Items" asp-action="ShowItems" asp-route-ItemsssId="@day.id">@dayDictionary[day.dayOfWeek]</a>
+                    <p style="font-size: 1.2em; font-weight: bold"><a style="color: white" asp-controller="Items" asp-action="ShowItems" asp-route-ItemsssId="@day.id">@dayDictionary[day.dayOfWeek]</a></p>
                 </td>
 
                 <td>
