@@ -6,6 +6,9 @@ Right now app is working on a free temporary hosting: <a href="http://donsimondo
 
 ## Screenshots
 ____
+![Login](img/Login.png "Login")
+![Group](img/Group.png "Group")
+![Timetable](img/Timetable.png "Timetable")
 
 ## Built with
 ____
