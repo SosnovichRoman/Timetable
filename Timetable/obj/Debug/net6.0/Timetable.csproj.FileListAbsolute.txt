@@ -268,3 +268,7 @@ C:\study\Timetable\Timetable\obj\Debug\net6.0\refint\Timetable.dll
 C:\study\Timetable\Timetable\obj\Debug\net6.0\Timetable.pdb
 C:\study\Timetable\Timetable\obj\Debug\net6.0\Timetable.genruntimeconfig.cache
 C:\study\Timetable\Timetable\obj\Debug\net6.0\ref\Timetable.dll
+C:\study\Timetable\Timetable\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\study\Timetable\Timetable\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\study\Timetable\Timetable\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\study\Timetable\Timetable\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll

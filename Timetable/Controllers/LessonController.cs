@@ -11,11 +11,11 @@ using Timetable.Models;
 
 namespace Timetable.Controllers
 {
-    public class ItemsController : Controller
+    public class LessonController : Controller
     {
         private readonly ApplicationDbContext _context;
 
-        public ItemsController(ApplicationDbContext context)
+        public LessonController(ApplicationDbContext context)
         {
             _context = context;
         }
@@ -157,15 +157,15 @@ namespace Timetable.Controllers
         {
             return _context.Lesson.Any(e => e.id == id);
         }
-        public IActionResult ShowItems(int ItemsssId)
+        public IActionResult ShowLesson(int DayId)
         {
             var days = _context.Day.ToList();
 
             var classs = _context.Group.ToList();
             var itemss = _context.Lesson.ToList();
 
-            ViewData["ItemId"] = ItemsssId;
-            var showitemsss = _context.Lesson.Where(c => c.DayId == ItemsssId).ToList();
+            ViewData["ItemId"] = DayId;
+            var showitemsss = _context.Lesson.Where(c => c.DayId == DayId).ToList();
             return View(showitemsss);
         }
     }

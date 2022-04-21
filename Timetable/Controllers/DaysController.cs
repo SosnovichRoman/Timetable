@@ -171,10 +171,10 @@ namespace Timetable.Controllers
         }
         public IActionResult ShowTimetable(string GroupName)
         {
-            var days = _context.Day.ToList();
+            //var days = _context.Day.ToList();
 
-            var classs = _context.Group.ToList();
-            var itemss = _context.Lesson.ToList();
+            //var classs = _context.Group.ToList();
+            //var itemss = _context.Lesson.ToList();
 
             var _groupId = _context.Group.Where(g => g.name == GroupName).FirstOrDefault().id;
             ViewData["GroupId"] = _groupId;

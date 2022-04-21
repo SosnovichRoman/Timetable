@@ -45,9 +45,9 @@
         {
             <tr class="Day@(day.dayOfWeek)">
                 <td>
-                    <p style="font-size: 1.2em; font-weight: bold"><a style="color: white" asp-controller="Items" asp-action="ShowItems" asp-route-ItemsssId="@day.id">@dayDictionary[day.dayOfWeek]</a></p>
+                    <p style="font-size: 1.2em; font-weight: bold"><a style="color: white" asp-controller="Lesson" asp-action="ShowLesson" asp-route-DayId="@day.id">@dayDictionary[day.dayOfWeek]</a></p>
                 </td>
-
+                
                 <td>
                     @if (day.Lesson != null)
                     {

@@ -9,7 +9,7 @@ namespace Timetable.Models
     {
         public int id { get; set; }
         public int dayOfWeek { get; set; }
-        public string GroupName { get; set; }
+        public string GroupName { get; set; } //Удалить
         public int GroupId { get; set; }
         public Group Group { get; set; }
 

@@ -22,85 +22,6 @@ namespace Timetable.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
-            modelBuilder.Entity("расписание.Models.Day", b =>
-                {
-                    b.Property<int>("id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"), 1L, 1);
-
-                    b.Property<int>("GroupId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("GroupName")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("dayOfWeek")
-                        .HasColumnType("int");
-
-                    b.HasKey("id");
-
-                    b.HasIndex("GroupId");
-
-                    b.ToTable("Day");
-                });
-
-            modelBuilder.Entity("расписание.Models.Group", b =>
-                {
-                    b.Property<int>("id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"), 1L, 1);
-
-                    b.Property<string>("name")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("id");
-
-                    b.ToTable("Group");
-                });
-
-            modelBuilder.Entity("расписание.Models.Lesson", b =>
-                {
-                    b.Property<int>("id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"), 1L, 1);
-
-                    b.Property<int>("DayId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("ends")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("name")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("number")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("place")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("starts")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("teacher")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("type")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("id");
-
-                    b.HasIndex("DayId");
-
-                    b.ToTable("Lesson");
-                });
-
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
                 {
                     b.Property<string>("Id")
@@ -299,26 +220,83 @@ namespace Timetable.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
-            modelBuilder.Entity("расписание.Models.Day", b =>
+            modelBuilder.Entity("Timetable.Models.Day", b =>
                 {
-                    b.HasOne("расписание.Models.Group", "Group")
-                        .WithMany("Day")
-                        .HasForeignKey("GroupId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                    b.Property<int>("id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
 
-                    b.Navigation("Group");
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"), 1L, 1);
+
+                    b.Property<int>("GroupId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("GroupName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("dayOfWeek")
+                        .HasColumnType("int");
+
+                    b.HasKey("id");
+
+                    b.HasIndex("GroupId");
+
+                    b.ToTable("Day");
                 });
 
-            modelBuilder.Entity("расписание.Models.Lesson", b =>
+            modelBuilder.Entity("Timetable.Models.Group", b =>
                 {
-                    b.HasOne("расписание.Models.Day", "Day")
-                        .WithMany("Lesson")
-                        .HasForeignKey("DayId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                    b.Property<int>("id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
 
-                    b.Navigation("Day");
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"), 1L, 1);
+
+                    b.Property<string>("name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("id");
+
+                    b.ToTable("Group");
+                });
+
+            modelBuilder.Entity("Timetable.Models.Lesson", b =>
+                {
+                    b.Property<int>("id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"), 1L, 1);
+
+                    b.Property<int>("DayId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ends")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("number")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("place")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("starts")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("teacher")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("type")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("id");
+
+                    b.HasIndex("DayId");
+
+                    b.ToTable("Lesson");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -372,12 +350,34 @@ namespace Timetable.Migrations
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("расписание.Models.Day", b =>
+            modelBuilder.Entity("Timetable.Models.Day", b =>
+                {
+                    b.HasOne("Timetable.Models.Group", "Group")
+                        .WithMany("Day")
+                        .HasForeignKey("GroupId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Group");
+                });
+
+            modelBuilder.Entity("Timetable.Models.Lesson", b =>
+                {
+                    b.HasOne("Timetable.Models.Day", "Day")
+                        .WithMany("Lesson")
+                        .HasForeignKey("DayId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Day");
+                });
+
+            modelBuilder.Entity("Timetable.Models.Day", b =>
                 {
                     b.Navigation("Lesson");
                 });
 
-            modelBuilder.Entity("расписание.Models.Group", b =>
+            modelBuilder.Entity("Timetable.Models.Group", b =>
                 {
                     b.Navigation("Day");
                 });

@@ -99,28 +99,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/study/Timetable/Timetable/Views/Items/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQ3JlYXRlLmNzaHRtbA==
+[C:/study/Timetable/Timetable/Views/Lesson/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/study/Timetable/Timetable/Views/Items/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRGVsZXRlLmNzaHRtbA==
+[C:/study/Timetable/Timetable/Views/Lesson/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/study/Timetable/Timetable/Views/Items/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRGV0YWlscy5jc2h0bWw=
+[C:/study/Timetable/Timetable/Views/Lesson/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/study/Timetable/Timetable/Views/Items/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRWRpdC5jc2h0bWw=
+[C:/study/Timetable/Timetable/Views/Lesson/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/study/Timetable/Timetable/Views/Items/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcSW5kZXguY3NodG1s
+[C:/study/Timetable/Timetable/Views/Lesson/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/study/Timetable/Timetable/Views/Items/ShowItems.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcU2hvd0l0ZW1zLmNzaHRtbA==
+[C:/study/Timetable/Timetable/Views/Lesson/ShowLesson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uXFNob3dMZXNzb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/study/Timetable/Timetable/Views/Role/Create.cshtml]

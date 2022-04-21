@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Xml.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -8,6 +9,11 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Timetable.Data;
 using Timetable.Models;
+using System.Xml.Serialization;
+using System.IO;
+using System.Runtime.Serialization;
+using System.Text.Json;
+using System.Text;
 
 namespace Timetable.Controllers
 {
@@ -152,6 +158,24 @@ namespace Timetable.Controllers
 
             return _context.Group.Any(e => e.id == id);
         }
-    
+
+
+        public IActionResult ShowXML(int GroupID)
+        {
+
+            return View( _context.Group.ToList());
+
+        }
+        public FileResult GetJSON()
+        {
+
+            string xml = JsonSerializer.Serialize(_context.Group.ToList());
+            
+            byte[] mas = Encoding.ASCII.GetBytes(xml);
+            string file_type = "application/json";
+            string file_name = "xml.json";
+            return File(mas, file_type, file_name);
+        }
+
     }
 }

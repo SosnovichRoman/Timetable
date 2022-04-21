@@ -10,7 +10,7 @@
     <WebStackScaffolding_IsLayoutPageSelected>True</WebStackScaffolding_IsLayoutPageSelected>
     <WebStackScaffolding_IsPartialViewSelected>False</WebStackScaffolding_IsPartialViewSelected>
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>False</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
-    <WebStackScaffolding_DbContextTypeFullName>расписание.Data.ApplicationDbContext</WebStackScaffolding_DbContextTypeFullName>
+    <WebStackScaffolding_DbContextTypeFullName>Timetable.Data.ApplicationDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
     <View_SelectedScaffolderID>RazorViewScaffolder</View_SelectedScaffolderID>

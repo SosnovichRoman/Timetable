@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace Timetable.Migrations
 {
-    public partial class MyTimetable : Migration
+    public partial class Timetable : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

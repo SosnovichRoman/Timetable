@@ -11,7 +11,7 @@
     @if (User.IsInRole("Admin"))
     {
         <p>
-
+            <a asp-action="GetJSON">GET JSON</a> |
             <a asp-action="Create">Create New</a>
         </p>
     }
@@ -38,6 +38,7 @@
                             <td>
                                 <a asp-action="Edit" asp-route-id="@group.id">Edit</a> |
                                 <a asp-action="Details" asp-route-id="@group.id">Details</a> |
+                                <a asp-action="GetGroupXML">Show XML</a> |
                                 <a asp-action="Delete" asp-route-id="@group.id">Delete</a>
                             </td>
                             }
